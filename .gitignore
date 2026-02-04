@@ -1,0 +1,5 @@
+hf_home/
+__pycache__/
+.ipynb_checkpoints/
+.env
+

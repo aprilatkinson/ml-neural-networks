@@ -1,0 +1,13 @@
+Help me build and understand a classification model in scikitlearn.
+The steps need to be completed in the following order:
+
+- Import Required Libraries
+- Import this dataset ('https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv' and verify that it has been correctly imported
+- Preprocess the data for the logistic regression model: remove zero variance columns, drop missing values, covert text to numbers (dummify the data), verify if there are correlations and remove them, stardardize the data before the prediction)
+- Build a logistic regression model
+- Predict
+- Evaluate the outcome using the f1score
+
+For each of these steps, group similar pieces of code together and write brief (1-2 sentences about what each thing does).
+As I am student, I would like to know the ROLE of each step in writting before executing it. Keep it simple and accessible while balancing the technical aspects.
+If I am not clear in the instructions, ask a follow up question before proceeding.
