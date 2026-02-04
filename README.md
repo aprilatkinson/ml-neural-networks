@@ -1,6 +1,6 @@
 # ML Neural Networks – Image & Audio Classification
 
-This repository contains my work for **Lab M1.04 – Build Simple Neural Network**, completed as part of the Ironhack AI Engineering curriculum.
+This repository contains my work for **Lab M1.04 – Build Simple Neural Network**, completed as part of the AI Engineering curriculum.
 
 The lab is divided into two parts:
 1. Building a neural network **from scratch** for image classification (Dogs vs Cats)
