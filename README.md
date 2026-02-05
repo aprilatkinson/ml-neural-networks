@@ -1,10 +1,23 @@
 # ML Neural Networks – Image & Audio Classification
 
-This repository contains my work for **Lab M1.04 – Build Simple Neural Network**, completed as part of the AI Engineering curriculum.
+This repository contains my work for ** Build Simple Neural Network**, completed as part of the AI Engineering curriculum.
 
 The lab is divided into two parts:
 1. Building a neural network **from scratch** for image classification (Dogs vs Cats)
 2. Exploring **pre-trained transformer models** for audio classification
+
+## Business Application Example
+
+This project demonstrates the technical foundation behind many AI-driven
+marketing use cases:
+
+- Automated product categorization in e-commerce catalogs
+- Creative asset classification for performance optimization
+- Content moderation and brand safety filtering
+- Audience segmentation signals for campaign optimization
+
+In enterprise environments, models like this sit behind governance layers
+ensuring explainability, data quality, and controlled deployment.
 
 ---
 
